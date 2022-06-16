@@ -1,2 +1,4 @@
 # Python_Clients
-Simple UDP Client, TCP Client, and TCP Server made with Python 🐍
+I started learning Python - and made a simple UDP Client, TCP Client, and TCP Server. 🐍
+
+
